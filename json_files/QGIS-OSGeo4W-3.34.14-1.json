@@ -1,0 +1,7 @@
+﻿{
+    "Path":  "\\\\magneto2\\company_temp\\ePlus\\Imaging Automation\\Installations\\QGIS-OSGeo4W-3.34.14-1.msi",
+    "Name":  "QGIS-OSGeo4W-3.34.14-1",
+    "Flags":  [
+                  "/i \"\\\\magneto2\\company_temp\\ePlus\\Imaging Automation\\Installations\\QGIS-OSGeo4W-3.34.14-1.msi\" /q /l*V debug.txt"
+              ]
+}

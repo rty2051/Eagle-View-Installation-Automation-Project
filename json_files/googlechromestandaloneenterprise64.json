@@ -1,0 +1,7 @@
+﻿{
+    "Path":  "\\\\magneto2\\company_temp\\ePlus\\Imaging Automation\\Installations\\googlechromestandaloneenterprise64.msi",
+    "Name":  "googlechromestandaloneenterprise64",
+    "Flags":  [
+                  "/i \"\\\\magneto2\\company_temp\\ePlus\\Imaging Automation\\Installations\\googlechromestandaloneenterprise64.msi\" /q /l*V debug.txt"
+              ]
+}

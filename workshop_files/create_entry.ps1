@@ -12,9 +12,9 @@ function Main {
 
     $data = @{
       # Name = "$(Split-Path -Path $Path -Leaf)"
-      Name = [System.IO.Path]::GetFileNameWithoutExtension($Path)
-      Path = "$Path"
-      Flags = @()
+      "Name" = [System.IO.Path]::GetFileNameWithoutExtension($Path)
+      "Path" = "$Path"
+      "Flags" = @()
     }
 
     # Convert the object to JSON
