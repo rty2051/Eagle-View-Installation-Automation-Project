@@ -1,0 +1,7 @@
+﻿{
+    "Path":  "\\\\magneto2\\company_temp\\ePlus\\Imaging Automation\\Installations\\hp-hpia-5.3.2.exe",
+    "Name":  "hp-hpia-5.3.2",
+    "Flags":  [
+                  "/s"
+              ]
+}

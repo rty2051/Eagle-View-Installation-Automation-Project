@@ -1,0 +1,7 @@
+﻿{
+    "Path":  "\\\\magneto2\\company_temp\\ePlus\\Imaging Automation\\Installations\\OfficeSetup.exe",
+    "Name":  "OfficeSetup",
+    "Flags":  [
+                  "/configuration C:\\Users\\admin.ryany\\Desktop\\Eagle-View-Installation-Automation-Project\\configuration.xml"
+              ]
+}

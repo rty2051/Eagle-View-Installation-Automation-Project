@@ -16,9 +16,8 @@ function Main {
     ### EXE INSTALL
     # Copy-Item $data.Path -Destination "\\magneto2\company_temp\ePlus\Imaging Automation\Installations\TEMP_Reader_en_install.exe"
     # Start-Process "\\magneto2\company_temp\ePlus\Imaging Automation\Installations\TEMP_Reader_en_install.exe" -ArgumentList "/sAll", "/rs", "/rps", "/msi", "EULA_ACCEPT=YES" -NoNewWindow -Wait
-    Start-Process $data.Path -ArgumentList "/sAll", "/msi" -NoNewWindow -Wait
-    $flag += "/sAll"
-    $flag += "/msi"
+    Start-Process $data.Path -ArgumentList "/s" -NoNewWindow -Wait
+    $flag += "/s"
 
     ### MSI INSTALL
     # Start-Process msiexec.exe -ArgumentList "/i `"$($data.Path)`" /q /l*V debug.txt" -Verb RunAs -Wait

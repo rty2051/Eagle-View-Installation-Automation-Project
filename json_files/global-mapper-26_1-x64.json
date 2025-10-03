@@ -1,0 +1,7 @@
+﻿{
+    "Path":  "\\\\magneto2\\company_temp\\ePlus\\Imaging Automation\\Installations\\GlobalMapper\\global-mapper-26_1-x64.exe",
+    "Name":  "global-mapper-26_1-x64",
+    "Flags":  [
+                  "/s"
+              ]
+}
