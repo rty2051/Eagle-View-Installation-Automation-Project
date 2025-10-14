@@ -1,0 +1,7 @@
+﻿{
+    "Path":  "\\\\magneto2\\company_temp\\ePlus\\Base\\ChromeSetup.exe",
+    "Name":  "Chrome",
+    "Flags":  [
+                  "/s"
+              ]
+}
