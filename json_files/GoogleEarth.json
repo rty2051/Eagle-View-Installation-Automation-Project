@@ -1,0 +1,8 @@
+﻿{
+    "Extension":  ".msi",
+    "Path":  "C:\\Users\\admin.ryany\\Desktop\\Installs\\GoogleEarthPro7.3.6.msi",
+    "Name":  "GoogleEarth",
+    "Flags":  [
+                  "/i \"C:\\Users\\admin.ryany\\Desktop\\Installs\\GoogleEarthPro7.3.6.msi\" /qn /l*V debug.txt"
+              ]
+}

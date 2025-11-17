@@ -1,7 +1,8 @@
 ﻿{
-    "Path":  "\\\\magneto2\\company_temp\\ePlus\\Base\\OfficeSetup.exe",
+    "Extension":  ".exe",
+    "Path":  "C:\\Users\\admin.ryany\\Desktop\\Installs\\OfficeSetup.exe",
     "Name":  "Office",
     "Flags":  [
-                  "/configuration \\\\magneto2\\company_temp\\ePlus\\Eagle-View-Installation-Automation-Project\\configuration.xml"
+                  "/configuration C:\\Users\\admin.ryany\\Desktop\\Eagle-View-Installation-Automation-Project\\configuration.xml"
               ]
 }

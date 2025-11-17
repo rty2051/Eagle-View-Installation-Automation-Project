@@ -1,7 +1,8 @@
 ﻿{
-    "Path":  "\\\\magneto2\\company_temp\\ePlus\\Base\\ChromeSetup.exe",
+    "Extension":  ".msi",
+    "Path":  "C:\\Users\\admin.ryany\\Desktop\\Installs\\googlechromestandaloneenterprise64.msi",
     "Name":  "Chrome",
     "Flags":  [
-                  "/s"
+                  "/i \"C:\\Users\\admin.ryany\\Desktop\\Installs\\googlechromestandaloneenterprise64.msi\" /qn /l*V debug.txt"
               ]
 }

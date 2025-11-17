@@ -19,6 +19,7 @@ function Main {
       # Name = "$(Split-Path -Path $Path -Leaf)"
     #   "Name" = [System.IO.Path]::GetFileNameWithoutExtension($Path)
       "Name" = $Name
+      "Extension" = [System.IO.Path]::GetExtension($Path)
       "Path" = "$Path"
       "Flags" = @()
     }

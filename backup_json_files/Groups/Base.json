@@ -1,0 +1,8 @@
+﻿{
+    "Name":  "Base",
+    "Installs":  [
+                     "Office.json",
+                     "hpia.json",
+                     "Chrome.json"
+                 ]
+}

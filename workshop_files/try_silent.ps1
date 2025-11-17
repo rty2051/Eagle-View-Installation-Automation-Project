@@ -16,12 +16,12 @@ function Main {
     ### EXE INSTALL
     # Copy-Item $data.Path -Destination "\\magneto2\company_temp\ePlus\Imaging Automation\Installations\TEMP_Reader_en_install.exe"
     # Start-Process "\\magneto2\company_temp\ePlus\Imaging Automation\Installations\TEMP_Reader_en_install.exe" -ArgumentList "/sAll", "/rs", "/rps", "/msi", "EULA_ACCEPT=YES" -NoNewWindow -Wait
-    Start-Process $data.Path -ArgumentList "/s" -NoNewWindow -Wait
-    $flag += "/s"
+    # Start-Process $data.Path -ArgumentList "/configuration C:\Users\admin.ryany\Desktop\Eagle-View-Installation-Automation-Project\configuration.xml" -NoNewWindow -Wait
+    # $flag += "/configuration C:\Users\admin.ryany\Desktop\Eagle-View-Installation-Automation-Project\configuration.xml"
 
     ### MSI INSTALL
-    # Start-Process msiexec.exe -ArgumentList "/i `"$($data.Path)`" /q /l*V debug.txt" -Verb RunAs -Wait
-    # $flag += "/i `"$($data.Path)`" /q /l*V debug.txt"
+    Start-Process msiexec.exe -ArgumentList "/i `"$($data.Path)`" /qn /l*V debug.txt" -Verb RunAs -Wait
+    $flag += "/i `"$($data.Path)`" /qn /l*V debug.txt"
 
     # $flag = Read-Host "Enter working flag"
     foreach($f in $flag){
