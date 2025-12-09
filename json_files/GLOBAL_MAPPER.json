@@ -1,0 +1,8 @@
+﻿{
+    "Extension":  ".exe",
+    "Path":  "\\\\Beast\\software\\GlobalMapper\\OLD VERSIONS\\global-mapper-26_0-x64.exe",
+    "Name":  "GLOBAL_MAPPER",
+    "Flags":  [
+                  "/s"
+              ]
+}

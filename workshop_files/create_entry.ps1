@@ -21,7 +21,7 @@ function Main {
       "Name" = $Name
       "Extension" = [System.IO.Path]::GetExtension($Path)
       "Path" = "$Path"
-      "Flags" = @()
+      "Flags" = @("/s")
     }
 
     # Convert the object to JSON

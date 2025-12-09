@@ -1,6 +1,6 @@
 ﻿{
     "Path":  "\\\\magneto2\\company_temp\\ePlus\\Imaging Automation\\Installations\\AcroRdrDC2500120693_en_US.exe",
-    "Name":  "AcroRdrDC2500120693_en_US",
+    "Name":  "AcroRdr",
     "Flags":  [
                   "/sAll",
                   "/msi"

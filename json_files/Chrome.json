@@ -1,8 +1,8 @@
 ﻿{
     "Extension":  ".msi",
-    "Path":  "C:\\Users\\admin.ryany\\Desktop\\Installs\\googlechromestandaloneenterprise64.msi",
+    "Path":  "\\\\magneto2\\company_temp\\ePlus\\Installs\\googlechromestandaloneenterprise64.msi",
     "Name":  "Chrome",
     "Flags":  [
-                  "/i \"C:\\Users\\admin.ryany\\Desktop\\Installs\\googlechromestandaloneenterprise64.msi\" /qn /l*V debug.txt"
+                  "/i \"\\\\magneto2\\company_temp\\ePlus\\Installs\\googlechromestandaloneenterprise64.msi\" /qn /l*V debug.txt"
               ]
 }

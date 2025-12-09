@@ -3,6 +3,8 @@
     "Installs":  [
                      "Chrome.json",
                      "GoogleEarth.json",
-                     "Office.json"
+                     "Office.json",
+                     "AcroRdr.json",
+                     "hpia.json"
                  ]
 }

@@ -1,0 +1,8 @@
+﻿{
+    "Extension":  ".msi",
+    "Path":  "\\\\beast\\Photogrammetric\\Software\\3rd Party Software\\Quantum GIS\\QGIS-OSGeo4W-3.34.14-1.msi",
+    "Name":  "QGIS-OSGeo4W-3.34.14-1",
+    "Flags":  [
+                  "/i \"\\\\beast\\Photogrammetric\\Software\\3rd Party Software\\Quantum GIS\\QGIS-OSGeo4W-3.34.14-1.msi\" /q /l*V debug.txt"
+              ]
+}

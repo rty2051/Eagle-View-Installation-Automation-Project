@@ -1,0 +1,11 @@
+Name	Location
+FastStone Capture Version 11.0	\\beast.pictometry.com\Operations\Processing\Software\FastStone Imaging Tools\FastStone Capture\FSCaptureSetup85.exe
+FastStone Viewer Version 8.0	\\beast.pictometry.com\Operations\Processing\Software\FastStone Imaging Tools\FSViewerSetup62.exe
+MrSID Checker – Lizard Tech	\\beast.pictometry.com\Operations\Processing\Software\LizardTech MrSID shell extension\MrSIDShellExtension\64bit\ShellExtensions_x64_Setup.exe
+ArcMap 10.8.2	\\beast\GIS\ESRI_Software\ArcGIS\ArcGIS_v10.8.0\ArcGIS_Desktop\ArcGIS_Desktop_1082_180378.exe
+GeoViewer – Lizard Tech	\\beast\Photogrammetric\Software\3rd Party Software\LizardTech\GeoViewer\GeoViewer_Setup.exe
+QGIS	\\beast\Photogrammetric\Software\3rd Party Software\Quantum GIS\QGIS-OSGeo4W-3.16.14-1-Setup-x86_64.exe
+Global Mapper	\\Beast\software\GlobalMapper\OLD VERSIONS\global-mapper-26_0-x64.exe
+EFS Version 2.7 Production Release 1, Revision 19	\\beast\Software\Pictometry\Customer\EFS 2.7 R1.19\MSI Only\EFS 2.7.msi
+Buildmode Version 2.5 (Revision 788)	\\Beast\Software\Pictometry\Internal\Automated Setup\Packages\BuildMode\2.5.788.3\Pictometry BuildMode.msi
+County Planner Version 2.9 (Revision 221)	\\beast\Software\Pictometry\Internal\CountyPlanner2.9_Builds\v221\setup.exe
